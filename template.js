@@ -60,7 +60,7 @@ user_pref("privacy.sanitize.migrateFx3Prefs", true);
 user_pref("general.appversion.override", "50.0");
 user_pref("general.buildID.override", "20181001000000");
 user_pref("general.oscpu.override", "?OSCPU?");
-user_pref("general.platform.override", "Win32");
+user_pref("general.platform.override", "?PLATFORM?");
 user_pref("general.useragent.override", "?USERAGENT?");
 user_pref("privacy.trackingprotection.enabled", true);
 user_pref("plugins.enumerable_names", "");
